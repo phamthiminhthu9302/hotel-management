@@ -8,7 +8,6 @@
 
 * [Features](#features)
 * [Documents](#documents)
-*
 
 ## Features
 
@@ -22,7 +21,6 @@
 * Decentralization
 * Sales report
 * Manage regulation
-
 
 ## Documents
 
