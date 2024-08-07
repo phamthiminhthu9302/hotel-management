@@ -1,13 +1,13 @@
 # Hotel Mangement
 ## Features
-* Book room
-* Order services
-* Checkout & print invoice
-* Manage room & room type
-* Manage service & service type
-* Manage account
-* Manage staff
-* Decentralization
-* Sales report
-* Manage regulation
-
+Book room
+Order services
+Checkout and print invoice
+Manage room and room type
+Manage service and service type
+Manage account
+Manage bill
+Manage staff
+Decentralization
+Sales report
+Manage regulation
